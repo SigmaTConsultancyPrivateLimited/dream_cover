@@ -18,7 +18,7 @@ default: &default
   adapter: postgresql
   pool: 5
   encoding: unicode
-  username: postgres
+  username: neetika
   password: neetika907
   host: localhost
 
