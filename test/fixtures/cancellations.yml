@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cancellation_date: 2022-09-07
+  purchase_record: one
+  refund_amount: 1.5
+
+two:
+  cancellation_date: 2022-09-07
+  purchase_record: two
+  refund_amount: 1.5
